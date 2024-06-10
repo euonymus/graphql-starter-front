@@ -9,15 +9,6 @@ node_modules/
 # production
 build
 
-# Firebase settings
-.firebaserc
-
-# Firebase Service Account Keys
-SAKey4dev.json
-SAKey4prod.json
-
-# api
-/api/.env
 
 # misc
 .DS_Store
